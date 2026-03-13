@@ -19,8 +19,6 @@ def binary_search(arr: List[int], lb: int, ub: int, target: int) -> Optional[int
     return -1
 
 
-
-
 def generate_random_list(size: int = 10, lower: int = 1, upper: int = 50) -> List[int]:
     return sorted(random.randint(lower, upper) for _ in range(size))
 
