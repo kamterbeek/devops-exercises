@@ -12,7 +12,7 @@ A summary of what you need to know for the exam can be found [here](https://aws.
 
 <details>
 <summary>What types of Cloud Computing services are there?</summary><br><b>
-
+ 
 IAAS
 PAAS
 SAAS
