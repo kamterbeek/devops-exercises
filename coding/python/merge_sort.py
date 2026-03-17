@@ -3,7 +3,6 @@
 import random
 from typing import List
 
-
 def merge_sort(arr: List[int]) -> List[int]:
     if len(arr) <= 1:
         return arr
