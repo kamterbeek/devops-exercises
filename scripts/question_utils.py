@@ -8,7 +8,7 @@ from typing import List
 import re
 
 README_PATH = pathlib.Path(__file__).parent.parent / "README.md"
-EXERCISES_PATH = pathlib.Path(__file__).parent.parent / "exercises"
+EXERCISES_PATH = pathlib.Path(__file__).parent.parent / "lessons"
 
 DETAILS_PATTERN = re.compile(r"<details>(.*?)</details>", re.DOTALL)
 SUMMARY_PATTERN = re.compile(r"<summary>(.*?)</summary>", re.DOTALL)
