@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 import random
 from typing import List, Optional
